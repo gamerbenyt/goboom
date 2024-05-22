@@ -1,0 +1,2 @@
+# goboom
+A Minecraft Datapack
